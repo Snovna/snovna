@@ -1,4 +1,4 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=snovna&layout=compact&show_icons=true&theme=tokyonight&bg_color=00000000&border_color=00000000)](https://github.com/snovna)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=snovna&show_icons=true&theme=tokyonight&bg_color=00000000&border_color=00000000)](https://github.com/snovna)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snovna&layout=compact&theme=tokyonight&bg_color=00000000&border_color=00000000)](https://github.com/snovna)
 
