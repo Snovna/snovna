@@ -1,4 +1,4 @@
-[![GitHub stats](https://github-readme-stats.snov.dev/api?username=snovna&show_icons=true&theme=tokyonight&bg_color=00000000&border_color=00000000)](https://github.com/snovna)
+[![GitHub stats](https://github-readme-stats.snov.dev/api?username=snovna&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=00000000&border_color=00000000)](https://github.com/snovna)
 
 [![Top Languages](https://github-readme-stats.snov.dev/api/top-langs/?username=snovna&layout=compact&theme=tokyonight&bg_color=00000000&border_color=00000000)](https://github.com/snovna)
 
